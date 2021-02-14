@@ -1,6 +1,6 @@
-# HuMIDI
+# humidi
 
-TypeScript MIDI library for humans. HuMIDIightweight and simple and lightwegith abstraction of the [Web MIDI API](https://www.w3.org/TR/webmidi/).
+TypeScript MIDI library for humans. Simple and lightweight abstraction of the [Web MIDI API](https://www.w3.org/TR/webmidi/).
 
 Currently handles simple use cases for note and connection events.
 
